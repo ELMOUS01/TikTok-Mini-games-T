@@ -1,0 +1,6 @@
+{
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title1": "Game 1", "Banner1": "true", "Icon1": "true",
+    "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title2": "Game 2", "Banner2": "true", "Icon2": "true",
+    "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title3": "Game 3", "Banner3": "true", "Icon3": "true",
+    "Link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DFTSVT7P", "Title4": "Game 4", "Banner4": "true", "Icon4": "true"
+}
