@@ -1,6 +1,6 @@
 {
-    "Link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0CY5WD6ZK",
+    "Link": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DV5R4R25",
     "Bckground1Link": "https://github.com/ELMOUS01/TikTok-Mini-games-T/blob/main/tiktok.png?raw=true",
     "Bckground2Link": "https://github.com/ELMOUS01/TikTok-Mini-games-T/blob/main/images.png?raw=true",
-    "ShowUpcomingUpdatePanel": "true"
+    "ShowUpcomingUpdatePanel": "false"
 }
